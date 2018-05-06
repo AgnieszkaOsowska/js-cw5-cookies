@@ -1,1 +1,0 @@
-js zadania 5
